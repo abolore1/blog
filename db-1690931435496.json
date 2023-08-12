@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new blog",
+      "body": "Why do we use...",
+      "author": "Qudus",
+      "id": 1
+    },
+    {
+      "title": "The pool party gang",
+      "body": "Why do we use...2",
+      "author": "Otutu",
+      "id": 2
+    }
+  ]
+}
